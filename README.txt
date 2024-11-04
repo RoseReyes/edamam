@@ -1,1 +1,4 @@
-Instructions with snippets - https://docs.google.com/document/d/1Z2RKptqjUVIYtKzS-mD9O74DKCLRiVT8EV6gqWphf7A/edit?tab=t.0
+Click on Code 
+Go to CodeSpaces tab
+Click on weary cobweb - this will open a visual studio like IDE 
+Click on the terminal tab below the main screen
